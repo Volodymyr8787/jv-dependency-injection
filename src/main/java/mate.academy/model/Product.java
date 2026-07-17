@@ -1,7 +1,10 @@
 package mate.academy.model;
 
+import mate.academy.lib.Component;
+
 import java.math.BigDecimal;
 
+@Component
 public class Product {
     private Long id;
     private String name;
