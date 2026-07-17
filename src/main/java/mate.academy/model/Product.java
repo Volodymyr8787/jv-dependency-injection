@@ -1,8 +1,7 @@
 package mate.academy.model;
 
-import mate.academy.lib.Component;
-
 import java.math.BigDecimal;
+import mate.academy.lib.Component;
 
 @Component
 public class Product {
